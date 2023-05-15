@@ -1,1 +1,1 @@
-solucionado
+Es el readme del main

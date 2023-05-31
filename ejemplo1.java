@@ -7,6 +7,9 @@ public class ejemplo1 {
 		System.out.println("Holame llamo rama 2");
 		System.out.println(" Hola Soy la rama 1");
 
+		int x =0;
+		x=x+1;
+		System.out.println(x);
 	}
 
 }
